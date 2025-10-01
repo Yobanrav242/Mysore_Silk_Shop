@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mysore_Silk_Shop/static/css/main.39a0e318.css",
+    "main.js": "/Mysore_Silk_Shop/static/js/main.1a018db0.js",
+    "static/js/453.6c0d2adc.chunk.js": "/Mysore_Silk_Shop/static/js/453.6c0d2adc.chunk.js",
+    "static/media/hero-silk.jpg": "/Mysore_Silk_Shop/static/media/hero-silk.949ecfedb72366e8726e.jpg",
+    "static/media/product-4.jpg": "/Mysore_Silk_Shop/static/media/product-4.719efcaae0cbc76f93c8.jpg",
+    "static/media/product-2.jpg": "/Mysore_Silk_Shop/static/media/product-2.02ad26d06c9dfaaadc8c.jpg",
+    "static/media/product-3.jpg": "/Mysore_Silk_Shop/static/media/product-3.452e2bab7ac0be8d3436.jpg",
+    "static/media/product-1.jpg": "/Mysore_Silk_Shop/static/media/product-1.5019f18dd9d7161c81ac.jpg",
+    "index.html": "/Mysore_Silk_Shop/index.html",
+    "main.39a0e318.css.map": "/Mysore_Silk_Shop/static/css/main.39a0e318.css.map",
+    "main.1a018db0.js.map": "/Mysore_Silk_Shop/static/js/main.1a018db0.js.map",
+    "453.6c0d2adc.chunk.js.map": "/Mysore_Silk_Shop/static/js/453.6c0d2adc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a0e318.css",
+    "static/js/main.1a018db0.js"
+  ]
+}
